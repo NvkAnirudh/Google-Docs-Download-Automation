@@ -56,7 +56,7 @@ The script will authenticate, fetch Google Docs from the folder, and save them a
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/NvkAnirudh/Google-Docs-Download-Automation/blob/main/LICENSE).
 
 ## Contributing
 
